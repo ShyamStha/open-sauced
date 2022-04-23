@@ -40,6 +40,7 @@ function Footer() {
              aria-label="Visit Open Sauced GitHub Organisation">
             <FaDev className="text-offWhite hover:text-accent" />
           </a>
+    <i className="fab fa-dev text-offWhite hover:text-accent "></i>
         </li>
       </ul>
     </Container>
